@@ -9,12 +9,12 @@ This is a simple project that extracts subtitles from a YouTube video and summar
 ✔ Uses **Gemini AI** to generate a **concise summary**
 ✔ **Easy setup** with minimal dependencies
 
-### ** Dependencies **
+### **Dependencies**
 ```bash
 pip install youtube_transcript_api google-generativeai pyyaml
 ```
 
-### ** Instructions **
+### **Instructions**
 
 Make Sure to create a config.yaml file in the project folder and add your **Gemini API key:**
 ```bash
